@@ -13,5 +13,7 @@ set nobackup
 set nowritebackup
 set noswapfile
 set pastetoggle=<F2>
+set ignorecase
+set smartcase
 
 set clipboard+=unnamed
