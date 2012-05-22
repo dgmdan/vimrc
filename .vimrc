@@ -17,3 +17,5 @@ set ignorecase
 set smartcase
 
 set clipboard+=unnamed
+
+set spell spelllang=en_us
